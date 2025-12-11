@@ -1,0 +1,18 @@
+event - lyssna efter submit
+userinput-value
+fetch
+
+form
+    input -> som användare vill jag kunna söka efter en adress och få reseförslag utifrån min nuvarande position
+    button
+form
+
+div
+    som användare vill jag kunna se en karta för hur jag ska ta mig från punkt A till B
+div
+
+aside
+    som användare vill jag kunna zooma in på kartan för att se olika delresor
+aside
+
+    som en användare vill jag kunna filtrera på resesätt

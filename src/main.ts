@@ -1,8 +1,5 @@
-import { getLocation } from './services/locationService';
 import './style.css'
 
-document.getElementById("mainButton")?.addEventListener("click", () => {
+document.getElementById("searchForm")?.addEventListener("submit", () => {
 
-  const location = getLocation();
-  console.log(location);
-});
+})
